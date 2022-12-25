@@ -6,4 +6,5 @@ export enum PLATFORM_MAP {
   h5 = 'react-iconfont-cli/libs/generateComponent',
   tt = 'mini-program-iconfont-cli/libs/generateToutiaoComponent',
   qq = 'mini-program-iconfont-cli/libs/generateQqComponent',
+  kwai = 'mini-program-iconfont-cli/libs/generateKuaishouComponent',
 }
